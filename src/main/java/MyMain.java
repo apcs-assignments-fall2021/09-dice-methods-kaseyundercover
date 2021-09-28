@@ -77,5 +77,6 @@ public class MyMain {
         System.out.println(rollDie());
         System.out.println(probabilityOneSix());
         System.out.println(probabilityTwoSixes());
+        System.out.println(probabilityThreeSixes());
     }
 }
